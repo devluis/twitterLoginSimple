@@ -1,0 +1,23 @@
+html{
+	background-color: #3D77CB;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.encabezado{
+	height: 100px;
+	background-color: #888A85;
+	color: #FFFFFF;
+	font-size: 38px;
+}
+
+.sesion{
+	height: 30px;
+	background-color: #EBF09E;
+}
+
+.cuerpo{
+	background-color: #797979;
+	height: 300px;
+	padding: 30px;
+}
